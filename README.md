@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @333NNN
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning javascript, typescript, react and next
+- 🌱 I’m currently learning java, javascript, typescript, react and next
 
 
 <!---
